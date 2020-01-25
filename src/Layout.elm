@@ -84,7 +84,7 @@ viewFooter =
                 , label = text "the elm package"
                 }
             , newTabLink []
-                { url = "https://github.com/ryannhg/elm-spa"
+                { url = "https://github.com/psophea/elm-spa-dev"
                 , label = text "github repo"
                 }
             ]
